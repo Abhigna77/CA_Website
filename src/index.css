@@ -1,0 +1,209 @@
+
+.pop{
+  font-weight: 750;
+  margin-left:140px;
+}
+.po{
+  font-weight:500;
+  margin-left:140px;
+}
+.heading{
+  color:white;
+  font-weight: 100px;
+  font-size: 70px;
+}
+.carousel-caption {
+  position: absolute;
+  top:10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+.carousel-item {
+  height: 650px;
+}
+.a{
+  text-align: center;
+  margin-left:400px;
+  margin-right:400px;
+}
+.b{
+  height: 600px;
+  font-weight:500;
+  
+}
+.btn-primary{
+  background-color:darkblue;
+}
+
+.c{
+  background-color:blue;
+  color:white;
+  border-radius: 10%;
+  height:50px;
+  width:200px;
+  text-decoration:none
+}
+.m{
+  background-color:blue;
+  color:white;
+  border-radius: 10%;
+  height:60px;
+  width:300px;
+  text-decoration:none;
+   font-weight: 700;
+   margin-left:130px;
+}
+
+.card{
+width:200px;
+margin-left:40px;
+height:200px;
+color:white;
+}
+.s{
+  display:flex;
+  flex-direction: row;
+  margin-left:180px;
+  height:500px;
+}
+.z{
+  text-align: center;
+}
+
+#imageAlignment{
+ 
+ width:20%;
+}
+.box{
+  display:flex;
+  flex-direction: row;
+  /* align-items: center; */
+  
+  margin-left:230px;
+}
+.total{
+  height:700px;
+}
+.new{
+  text-align:center;
+}
+.but{
+  background-color:blue;
+  color:white;
+  height:40px;
+  width:100px;
+  border-radius:10%;
+  font-weight:500;
+}
+.contact-form{
+  margin-left:100px;
+}
+.footer{
+  text-align: center;
+}
+.mb-4{
+  align-self: center;
+  margin-left:260px;
+  
+}
+  
+.pp{
+  text-align: center;
+  height:700px;
+  color:white;
+  background-image: url("https://getwallpapers.com/wallpaper/full/c/e/c/496109.jpg");
+}
+.nav-link{
+  margin-left:150px;
+  color:black;
+}
+.dd{
+  text-align: center;
+}
+.bg-light{
+  background-color: crimson;
+}
+.gg{
+  height:50px;
+  width:50px;
+  margin-left:50px;
+  
+}
+.ggg{
+  margin-top:20px;
+  display:flex;
+  margin-left: 500px;
+  flex-direction: row;
+}
+
+.aa{
+  margin-left:20px;
+  color:white;
+  text-decoration:none;
+}
+.bb{
+  width:400px;
+  height:350px;
+  margin-left:135px;
+
+}
+
+.ccc{
+  background-image: url("https://getwallpapers.com/wallpaper/full/c/e/c/496109.jpg");
+}
+
+.z{
+  color:white;
+}
+
+.row{
+  color:white;
+}
+.footer{
+  color:white;
+}
+
+.ff{
+  position:relative;
+}
+.kk{
+  position:absolute;
+  margin-left: 350px;
+  margin-top:40px;
+}
+.ll{
+  position:absolute;
+  margin-left:750px;
+  margin-top:50px;
+}
+
+.gg{
+  color:white;
+}
+
+a:link {
+  text-decoration: none;
+  color:white;
+  font-weight:900;
+}
+a:visited {
+  text-decoration: none;
+  color:white;
+}
+a:hover {
+  text-decoration: underline;
+  color:white;
+}
+.aa:active {
+  text-decoration: underline;
+  color:white;
+}
+.jk{
+  font-weight:700;
+}
+.abd{
+  width:150px;
+  height:100px;
+}
